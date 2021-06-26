@@ -33,6 +33,10 @@ joblib 1.0.1
 
 model folder includes enrichment features used in script and CART model the script will load through joblib
 
+
+if there any issues please feel free to email us at:
+douglas.m.shaw@vanderbilt.edu
+
 Script only returns one file: sample list of all samples that were predicted to stutter based on PheML CART model
 
 

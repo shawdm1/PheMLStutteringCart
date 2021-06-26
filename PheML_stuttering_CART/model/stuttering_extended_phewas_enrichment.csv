@@ -1,0 +1,953 @@
+phecode,description,count.1000,p.value,p01,p05,p10,p50,p90,p95,p99,max
+1002,Symptoms concerning nutrition; metabolism; and development,31,0,2,3,4,7,10,10,11,11
+1010,Other tests,143,0,15,20,21,27,33,34,37,40
+110,Dermatophytosis / Dermatomycosis,39,0,17,20,21,26,31,33,35,35
+110.1,Dermatophytosis,38,0,16,18,20,24,29,31,33,34
+112,Candidiasis,33,0,14,16,17,23,28,30,32,33
+130,Spirochetal infection,3,0,0,0,0,1,2,2,3,3
+134,Helminthiases,6,0,0,0,0,2,3,4,5,5
+134.1,Intestinal helminthiases,6,0,0,0,0,2,3,4,5,5
+246.7,Abnormal results of function study of thyroid,3,0,0,0,0,0,1,2,2,3
+250.4,Abnormal glucose,5,0,0,0,0,1,2,2,3,4
+250.42,Other abnormal glucose,5,0,0,0,0,1,2,2,3,4
+259,Other endocrine disorders,4,0,0,0,0,1,2,3,3,4
+259.1,Nonspecific abnormal results of other endocrine function study,1,0,0,0,0,0,1,1,1,1
+260.7,Polyphagia,1,0,0,0,0,0,1,1,1,1
+264,Lack of normal physiological development,83,0,53,55,56,65,73,74,79,82
+264.9,Lack of normal physiological development; unspecified,43,0,19,21,23,28,33,36,38,40
+278,Overweight; obesity and other hyperalimentation,29,0,1,2,3,5,8,9,10,10
+278.1,Obesity,18,0,0,1,1,3,5,6,7,7
+278.11,Morbid obesity,1,0,0,0,0,0,1,1,1,1
+278.4,Abnormal weight gain,16,0,0,1,1,3,4,5,5,6
+279.7,Other immunological findings,2,0,0,0,0,0,1,1,1,2
+286.12,Congenital deficiency of other clotting factors (including factor VII),1,0,0,0,0,0,1,1,1,1
+286.81,Primary hypercoagulable state,1,0,0,0,0,0,1,1,1,1
+286.9,Abnormal coagulation profile,2,0,0,0,0,0,1,1,2,2
+290.11,Alzheimer's disease,2,0,0,0,0,0,1,1,2,2
+292,Neurological disorders,55,0,21,23,26,32,37,39,41,41
+292.1,Aphasia/speech disturbance,40,0,6,8,10,14,18,19,21,23
+292.12,Symbolic dysfunction,7,0,0,0,1,3,5,5,6,7
+292.3,Memory loss,3,0,0,0,0,1,2,3,3,3
+300.11,Generalized anxiety disorder,9,0,0,2,2,5,7,8,9,9
+313,Pervasive developmental disorders,186,0,66,69,72,80,90,93,95,95
+313.2,Tics and stuttering,141,0,15,17,19,25,30,32,35,37
+315,Develomental delays and disorders,351,0,81,87,89,104,117,121,123,128
+315.1,Learning disorder,16,0,2,3,4,7,10,11,12,13
+315.2,Speech and language disorder,337,0,64,74,77,89,102,106,109,115
+317.11,Alcoholic liver damage,1,0,0,0,0,0,1,1,1,1
+327,Sleep disorders,47,0,18,24,25,30,35,36,39,42
+334.2,Anterior horn cell disease,1,0,0,0,0,0,1,1,1,1
+334.21,Amyotrophic Lateral Sclerosis,1,0,0,0,0,0,0,1,1,1
+345,Epilepsy; recurrent seizures; convulsions,55,0,29,35,37,44,50,51,54,55
+345.3,Convulsions,54,0,27,32,34,41,47,48,51,51
+346,Abnormal findings on study of brain and/or nervous system,3,0,0,0,0,0,1,2,2,2
+346.1,Nonspecific abnormal findings on radiological and other examination of skull and head,3,0,0,0,0,0,1,1,2,2
+346.2,Nonspecific abnormal results of function study of brain and central nervous system,3,0,0,0,0,0,1,2,2,2
+350,Abnormal movement,53,0,14,15,17,22,27,28,31,32
+350.1,Abnormal involuntary movements,15,0,4,5,5,8,11,12,13,14
+350.2,Abnormality of gait,24,0,0,1,2,4,6,7,7,10
+350.3,Lack of coordination,20,0,3,5,7,11,15,16,18,19
+350.5,Abnormal reflex,2,0,0,0,0,0,1,1,2,2
+359.1,Muscular dystrophies,1,0,0,0,0,0,1,1,1,1
+363.3,Chorioretinal scars,2,0,0,0,0,0,1,2,2,2
+369,Infection of the eye,58,0,25,29,34,42,50,51,54,58
+369.5,Conjunctivitis; infectious,54,0,22,26,29,37,44,46,50,53
+379.1,Scleritis and episcleritis,1,0,0,0,0,0,1,1,1,1
+381,Otitis media and Eustachian tube disorders,149,0,94,104,108,120,131,133,136,143
+381.1,Otitis media,144,0,89,99,101,114,125,126,129,131
+381.11,Suppurative and unspecified otitis media,134,0,84,90,95,106,116,118,122,122
+382,Otalgia,27,0,5,9,11,16,21,21,23,25
+389,Hearing loss,79,0,38,43,45,53,59,62,66,66
+389.2,Conductive hearing loss,46,0,18,22,23,30,35,37,39,44
+389.5,Disorders of acoustic nerve,5,0,0,0,0,1,2,3,4,4
+394.1,Mitral valve stenosis and aortic valve stenosis,1,0,0,0,0,0,1,1,1,1
+402,Elevated blood pressure reading without diagnosis of hypertension,3,0,0,0,0,0,1,1,2,2
+426,Cardiac conduction disorders,14,0,1,2,3,6,9,10,11,12
+426.7,Abnormal electrocardiogram [ECG] [EKG],11,0,0,0,0,2,4,4,5,6
+429.1,Heart transplant/surgery,2,0,0,0,0,1,2,2,2,2
+429.2,Abnormal function study of cardiovascular system,1,0,0,0,0,0,1,1,1,1
+433.8,Late effects of cerebrovascular disease,5,0,0,0,0,2,3,3,4,5
+465,Acute upper respiratory infections of multiple or unspecified sites,174,0,131,135,140,150,163,164,171,172
+472,Chronic pharyngitis and nasopharyngitis,29,0,10,13,14,19,24,25,28,29
+512.3,Abnormal chest sounds,8,0,0,0,0,1,3,4,4,5
+512.8,Cough,120,0,73,76,81,90,99,101,106,106
+514,Abnormal findings examination of lungs,10,0,0,0,0,2,3,4,5,5
+528.3,Cellulitis and abscess of oral soft tissues,2,0,0,0,0,0,1,2,2,2
+564.8,Abnormal findings on exam of gastrointestinal tract/ abdominal area,2,0,0,0,0,0,1,2,2,2
+564.9,Personal history of diseases of digestive system,1,0,0,0,0,0,1,1,1,1
+573.6,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],3,0,0,0,0,0,1,2,2,2
+573.7,Abnormal results of function study of liver,1,0,0,0,0,0,1,1,1,1
+573.9,Abnormal serum enzyme levels,1,0,0,0,0,0,1,1,1,1
+579.8,Nonspecific abnormal findings in stool contents,8,0,0,0,0,1,3,3,4,4
+580.12,Non-proliferative glomerulonephritis,1,0,0,0,0,0,1,1,1,1
+580.2,Nephrotic syndrome without mention of glomerulonephritis,1,0,0,0,0,0,1,1,1,1
+585.4,Chronic kidney disease; Stage I or II,1,0,0,0,0,0,1,1,1,1
+589,Abnormal results of function study of kidney,2,0,0,0,0,0,1,1,2,2
+598,Abnormal findings on examination of urine,1,0,0,0,0,0,1,1,1,1
+598.9,Other nonspecific findings on examination of urine,3,0,0,0,0,0,1,1,2,2
+601.8,Other inflammatory disorders of male genital organs,1,0,0,0,0,0,1,1,1,1
+604.2,Vascular disorders of penis,1,0,0,0,0,0,1,1,1,1
+604.3,Peyronie's disease,1,0,0,0,0,0,1,1,1,1
+614.54,Abscess or ulceration of vulva,3,0,0,0,0,0,1,2,2,3
+622,Polyp of female genital organs,1,0,0,0,0,0,1,1,1,1
+622.1,Polyp of corpus uteri,1,0,0,0,0,0,1,1,1,1
+687.1,Rash and other nonspecific skin eruption,63,0,29,33,34,41,48,50,52,53
+691,Congenital anomalies of skin,15,0,2,3,5,7,10,11,12,13
+691.3,Congenital pigmentary anomalies of skin,9,0,0,1,2,3,5,6,7,8
+701.1,Keratoderma; acquired,1,0,0,0,0,0,1,1,1,1
+704,Diseases of hair and hair follicles,12,0,2,3,4,7,10,10,11,12
+726.4,Calcaneal spur; Exostosis NOS,3,0,0,0,0,0,1,2,3,3
+727.2,Bursitis disorders,1,0,0,0,0,0,1,1,1,1
+783,Fever of unknown origin,152,0,109,111,115,124,136,139,144,145
+79,Viral infection,116,0,67,70,76,85,95,98,102,109
+790,Nonspecific findings on examination of blood,3,0,0,0,0,0,1,2,2,2
+790.1,Elevated sedimentation rate,1,0,0,0,0,0,1,1,1,1
+790.6,Other abnormal blood chemistry,9,0,0,0,0,1,3,3,4,4
+790.8,Elevated C-reactive protein (CRP),3,0,0,0,0,0,1,2,2,3
+791,Gangrene,2,0,0,0,0,1,1,2,2,2
+793.2,Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram; etc),4,0,0,0,0,0,2,2,3,3
+796,Elevated prostate specific antigen [PSA],1,0,0,0,0,0,1,1,1,1
+809,Fracture of unspecified bones,4,0,0,0,0,1,3,3,4,4
+870,Open wounds of head; neck; and trunk,54,0,21,31,31,39,46,47,49,50
+870.3,Other open wound of head and face,38,0,12,17,19,25,30,32,35,36
+909,Late effects of external causes,1,0,0,0,0,0,1,1,1,1
+930,Allergic reaction to food,20,0,4,6,6,10,14,15,16,19
+939,Atopic/contact dermatitis due to other or unspecified,84,0,37,42,44,51,59,60,62,68
+960.1,Adverse effects of antibacterials (not penicillins),2,0,0,0,0,0,1,1,1,2
+960.2,Allergy/adverse effect of penicillin,1,0,0,0,0,0,1,1,1,1
+965.2,Antirheumatics causing adverse effects in therapeutic use,1,0,0,0,0,0,1,1,1,1
+966,Poisoning by anticonvulsants and anti-Parkinsonism drugs,1,0,0,0,0,0,0,1,1,1
+969,Poisoning by psychotropic agents,3,0,0,0,0,1,2,3,3,3
+976,Poisoning by agents primarily affecting skin & mucous membrane; ophthalmological; otorhinolaryngological; & dental drugs,2,0,0,0,0,0,1,1,2,2
+980,Encounter for long-term (current) use of antibiotics,2,0,0,0,0,0,1,1,2,2
+112.3,Candidiasis of skin and nails,13,0.01,3,4,5,8,12,12,13,14
+174.1,Breast cancer [female],1,0.01,0,0,0,0,1,1,1,2
+174.11,Malignant neoplasm of female breast,1,0.01,0,0,0,0,1,1,1,2
+250.3,Insulin pump user,2,0.01,0,0,0,0,1,2,2,3
+283,Acquired hemolytic anemias,1,0.01,0,0,0,0,1,1,1,2
+287.4,Qualitative platelet defects,2,0.01,0,0,0,0,1,2,2,3
+290.1,Dementias,2,0.01,0,0,0,1,2,2,2,4
+292.5,Transient alteration of awareness,9,0.01,1,2,2,5,7,8,9,11
+300,Anxiety disorders,34,0.01,16,20,21,26,32,33,34,36
+306,Other mental disorder,19,0.01,3,7,8,12,16,16,19,20
+331.9,Cerebral degeneration; unspecified,3,0.01,0,0,0,1,2,3,3,4
+333.3,Tics and choreas,4,0.01,0,0,0,1,3,3,4,6
+363,Chorioretinal inflammations; scars; and other disorders of choroid,2,0.01,0,0,0,0,2,2,2,3
+371.2,Conjunctivitis; noninfectious,10,0.01,1,2,3,5,8,9,10,11
+476,Allergic rhinitis,77,0.01,47,54,56,64,71,73,75,78
+512,Other symptoms of respiratory system,163,0.01,120,128,132,140,151,154,157,165
+558,Noninfectious gastroenteritis,47,0.01,23,28,30,35,41,43,47,49
+580.11,Proliferative glomerulonephritis,1,0.01,0,0,0,0,1,1,1,2
+580.3,Nephritis and nephropathy without mention of glomerulonephritis,3,0.01,0,0,0,1,2,2,3,4
+614,Inflammatory diseases of female pelvic organs,10,0.01,1,3,3,5,8,9,10,12
+614.5,Inflammatory disease of cervix; vagina; and vulva,10,0.01,1,3,3,5,8,9,10,12
+691.1,Ichthyosis congenita,1,0.01,0,0,0,0,1,1,1,2
+696.4,Psoriasis,3,0.01,0,0,0,1,2,3,3,5
+696.41,Psoriasis vulgaris,3,0.01,0,0,0,1,2,3,3,5
+71,Human immunodeficiency virus [HIV] disease,3,0.01,0,0,0,0,2,3,3,4
+736.2,Acquired deformities of finger,3,0.01,0,0,0,1,2,3,3,4
+750.5,Congenital hypertrophic pyloric stenosis,4,0.01,0,0,0,2,3,4,4,5
+754.1,Lumbosacral spondylolysis; congenital,1,0.01,0,0,0,0,1,1,1,2
+840.2,Rotator cuff (capsule) sprain,2,0.01,0,0,0,0,1,2,2,3
+911,Blister,1,0.01,0,0,0,0,1,1,1,2
+110.12,Althete's foot,3,0.02,0,0,0,1,2,2,4,4
+249,Secondary diabetes mellitus,1,0.02,0,0,0,0,1,1,2,2
+250.12,Type 1 diabetes with renal manifestations,2,0.02,0,0,0,1,1,2,3,3
+264.3,Delayed milestones,33,0.02,14,17,18,24,29,30,35,37
+324,Other CNS infection and poliomyelitis,2,0.02,0,0,0,0,2,2,3,3
+327.4,Insomnia,9,0.02,1,2,4,6,8,9,10,10
+327.41,Organic or persistent insomnia,4,0.02,0,0,1,2,4,4,5,5
+371.21,Allergic conjunctivitis,8,0.02,0,1,2,4,6,7,9,9
+479,Other upper respiratory disease,56,0.02,33,36,38,47,53,54,57,57
+481,Influenza,28,0.02,12,13,15,21,24,26,30,30
+526.9,Jaw disease NOS,1,0.02,0,0,0,0,1,1,2,2
+527.8,Other specified diseases of the salivary glands,1,0.02,0,0,0,0,1,1,2,2
+580.31,Nephritis and nephropathy in diseases classified elsewhere,2,0.02,0,0,0,1,1,2,3,3
+580.32,Nephritis and nephropathy with pathological lesion,1,0.02,0,0,0,0,1,1,2,2
+614.52,Vaginitis and vulvovaginitis,8,0.02,1,2,2,4,7,7,9,9
+626.8,Infertility; female,1,0.02,0,0,0,0,1,1,2,2
+698,Pruritus and related conditions,9,0.02,1,2,3,6,8,9,12,12
+704.8,Other specified diseases of hair and hair follicles,6,0.02,0,1,2,4,6,6,7,7
+738.4,Acquired spondylolisthesis,4,0.02,0,0,0,1,3,3,5,5
+756.22,Pectus carinatum,2,0.02,0,0,0,1,2,2,3,5
+949,Allergies; other,13,0.02,2,3,4,8,11,12,14,14
+965,Poisoning by analgesics; antipyretics; and antirheumatics,2,0.02,0,0,0,1,2,2,3,3
+979,Adverse drug events and drug allergies,8,0.02,0,1,2,4,6,8,9,9
+197,Chemotherapy,1,0.03,0,0,0,0,1,1,2,2
+286.1,Congenital coagulation defects,2,0.03,0,0,0,1,2,2,3,3
+286.13,Congenital factor VIII disorder,1,0.03,0,0,0,0,1,1,2,2
+295.1,Schizophrenia,2,0.03,0,0,0,1,2,2,3,3
+478,Throat pain,13,0.03,3,4,5,9,13,13,15,16
+519.9,Symptoms involving respiratory system and other chest symptoms,19,0.03,7,8,9,12,17,19,20,21
+530.5,Disorders of esophageal motility,1,0.03,0,0,0,0,1,1,2,2
+540.11,Acute appendicitis,6,0.03,0,1,1,3,5,6,7,9
+580,Nephritis; nephrosis; renal sclerosis,4,0.03,0,0,0,2,3,4,5,5
+727.4,Ganglion and cyst of synovium; tendon; and bursa,4,0.03,0,0,0,2,3,4,5,6
+728.7,Fasciitis,2,0.03,0,0,0,1,2,2,3,3
+782,Symptoms involving skin and other integumentary tissue,4,0.03,0,0,0,2,4,4,6,7
+931,Contact dermatitis and other eczema due to plants [except food],4,0.03,0,0,0,2,3,4,5,5
+938.1,Acute dermatitis due to solar radiation,3,0.03,0,0,0,1,3,3,4,6
+975,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system,2,0.03,0,0,0,0,2,2,3,3
+983,Toxic effect of corrosive aromatics; acids; and caustic alkalis,1,0.03,0,0,0,1,1,1,2,2
+1014,Effects of heat; cold and air pressure,1,0.04,0,0,0,0,1,1,2,2
+110.13,Dermatophytosis of the body,16,0.04,5,6,8,11,14,16,19,19
+250.24,Type 2 diabetes with neurological manifestations,1,0.04,0,0,0,0,1,1,2,2
+295.2,Paranoid disorders,2,0.04,0,0,0,1,2,2,3,3
+313.3,Autism,23,0.04,9,11,12,18,22,23,25,26
+341,Other demyelinating diseases of central nervous system,1,0.04,0,0,0,0,1,1,2,2
+371,Inflammation of the eye,22,0.04,9,11,13,17,21,22,25,26
+41.8,H. pylori,1,0.04,0,0,0,0,1,1,2,2
+433.3,Cerebral ischemia,1,0.04,0,0,0,0,1,1,2,2
+433.31,Transient cerebral ischemia,1,0.04,0,0,0,0,1,1,2,2
+443.1,Raynaud's syndrome,1,0.04,0,0,0,0,1,1,2,2
+444.1,Arterial embolism and thrombosis of lower extremity artery,1,0.04,0,0,0,0,1,1,2,2
+495.2,Asthma with exacerbation,44,0.04,24,25,26,32,39,41,45,47
+513.8,Disorders of diaphragm,1,0.04,0,0,0,0,1,1,2,2
+522.5,Periapical abscess,3,0.04,0,0,0,1,3,3,4,5
+531.3,Duodenal ulcer,1,0.04,0,0,0,0,1,1,2,2
+540.1,Appendicitis,6,0.04,0,1,1,3,6,6,8,9
+579.2,Splenomegaly,2,0.04,0,0,0,1,2,2,3,4
+592,Cystitis and urethritis,3,0.04,0,0,0,2,3,3,4,4
+605,Erectile dysfunction [ED],2,0.04,0,0,0,1,2,2,3,3
+626.2,Dysmenorrhea,3,0.04,0,0,0,1,3,3,5,5
+690,Erythematosquamous dermatosis,13,0.04,3,5,5,9,12,13,15,15
+690.1,Seborrheic dermatitis,13,0.04,3,5,5,9,12,13,15,15
+704.1,Alopecia,5,0.04,0,1,1,3,5,5,6,7
+735,Acquired foot deformities,11,0.04,1,3,4,7,10,11,13,13
+8,Intestinal infection,38,0.04,15,20,24,30,36,38,40,42
+915,Superficial injury without mention of infection,27,0.04,13,14,16,21,27,27,29,31
+947,Urticaria,16,0.04,5,6,7,11,14,16,19,19
+965.1,Opiates and related narcotics causing adverse effects in therapeutic use,1,0.04,0,0,0,0,1,1,2,2
+973,Poisoning by agents primarily affecting the gastrointestinal system,1,0.04,0,0,0,0,1,1,2,2
+1019,Other ill-defined and unknown causes of morbidity and mortality,14,0.05,2,6,7,10,13,14,18,18
+174,Breast cancer,1,0.05,0,0,0,0,1,1,2,2
+242.1,Graves' disease,1,0.05,0,0,0,0,1,1,2,3
+269,Proteinuria,6,0.05,1,1,2,3,5,6,8,8
+287.32,Secondary thrombocytopenia,3,0.05,0,0,0,1,3,3,4,5
+296.22,Major depressive disorder,11,0.05,3,4,4,7,11,11,13,15
+345.11,Generalized convulsive epilepsy,14,0.05,5,6,6,10,14,14,17,17
+345.12,Partial epilepsy,11,0.05,3,4,5,9,11,11,13,13
+381.3,Mastoiditis & related conditions,7,0.05,1,1,2,4,6,7,9,10
+41.9,Infection with drug-resistant microorganisms,3,0.05,0,0,0,2,3,3,5,5
+411.8,Other chronic ischemic heart disease; unspecified,2,0.05,0,0,0,1,2,2,3,3
+426.24,Atrioventricular block; complete,2,0.05,0,0,0,1,2,2,3,3
+474,Acute and chronic tonsillitis,55,0.05,33,37,39,46,53,55,61,64
+474.2,Chronic tonsillitis and adenoiditis,52,0.05,32,34,36,43,49,52,58,61
+592.2,Urethritis and urethral syndrome,1,0.05,0,0,0,0,1,1,2,2
+724.2,Disorders of coccyx,1,0.05,0,0,0,0,1,1,2,3
+741.3,Difficulty in walking,10,0.05,1,3,3,6,9,10,12,13
+204.4,Multiple myeloma,1,0.06,0,0,0,0,1,2,2,2
+259.3,Delay in sexual development and puberty NEC,3,0.06,0,0,0,1,3,4,5,6
+286.8,Hypercoagulable state,1,0.06,0,0,0,0,1,2,2,2
+327.71,Restless legs syndrome,2,0.06,0,0,0,1,2,3,3,4
+334,Degenerative disease of the spinal cord,4,0.06,0,0,0,2,4,5,6,6
+378.2,Nystagmus and other irregular eye movements,3,0.06,0,0,0,1,3,4,5,5
+380,Disorders of external ear,4,0.06,0,0,0,2,4,5,6,8
+384.1,Myringitis,1,0.06,0,0,0,0,1,2,2,2
+426.4,Anomalous atrioventricular excitation,2,0.06,0,0,0,1,2,3,3,4
+465.2,Acute pharyngitis,75,0.06,47,53,55,63,73,76,82,82
+495,Asthma,74,0.06,48,54,56,62,70,75,78,81
+531.4,Peptic ulcer; site unspecified,1,0.06,0,0,0,0,1,2,2,2
+580.1,Glomerulonephritis,2,0.06,0,0,0,1,2,3,3,3
+626.14,Irregular menstrual bleeding,1,0.06,0,0,0,0,1,2,2,2
+686.2,Impetigo,17,0.06,6,7,8,12,16,18,20,22
+737.2,Lordosis (acquired),1,0.06,0,0,0,0,1,2,2,2
+772.3,Muscle weakness,21,0.06,8,11,11,16,21,22,26,27
+79.9,Viremia; NOS,9,0.06,2,2,3,6,8,10,11,12
+870.5,Open wound of lip and mouth,12,0.06,2,4,6,9,12,13,13,15
+259.4,Precocious sexual development and puberty NEC,8,0.07,2,2,3,5,8,9,10,10
+287.1,Spontaneous ecchymoses,3,0.07,0,0,0,1,3,4,5,6
+334.1,Spinocerebellar disease,1,0.07,0,0,0,0,1,2,2,3
+352.1,Trigeminal nerve disorders [CN5],1,0.07,0,0,0,0,1,2,2,2
+388,Other disorders of ear,2,0.07,0,0,0,1,2,3,3,4
+426.9,Cardiac pacemaker/device in situ,2,0.07,0,0,0,1,2,3,3,3
+426.91,Cardiac pacemaker in situ,2,0.07,0,0,0,1,2,3,3,3
+473.4,Voice disturbance,9,0.07,2,3,4,6,9,10,11,12
+512.1,Wheezing,50,0.07,32,34,36,41,50,51,55,55
+527.7,Disturbance of salivary secretion,1,0.07,0,0,0,0,1,2,2,2
+540,Appendiceal conditions,6,0.07,0,1,2,4,6,7,9,10
+592.11,Acute cystitis,1,0.07,0,0,0,0,1,2,2,2
+626.12,Excessive or frequent menstruation,2,0.07,0,0,0,1,2,3,3,4
+645,Late pregnancy and failed induction,1,0.07,0,0,0,0,1,2,2,2
+658,Maternal complication of pregnancy affecting fetus or newborn,27,0.07,15,16,17,21,27,29,32,34
+967,Adverse effects of sedatives or other central nervous system depressants and anesthetics,2,0.07,0,0,0,1,2,3,4,4
+158,Neoplasm of unspecified nature of digestive system,1,0.08,0,0,0,0,1,2,2,2
+210,Benign neoplasm of lip; oral cavity; and pharynx,1,0.08,0,0,0,0,1,2,3,3
+250.22,Type 2 diabetes with renal manifestations,1,0.08,0,0,0,0,1,2,2,2
+271.3,Intestinal disaccharidase deficiencies and disaccharide malabsorption,2,0.08,0,0,0,1,2,3,4,4
+277.5,Other disorders of lipoid metabolism,2,0.08,0,0,0,1,2,3,4,4
+377.1,Optic atrophy,2,0.08,0,0,0,1,2,3,3,3
+381.2,Eustachian tube disorders,39,0.08,20,24,26,31,39,40,43,45
+483,Acute bronchitis and bronchiolitis,59,0.08,35,39,43,50,59,61,62,63
+53,Herpes zoster,3,0.08,0,0,0,2,3,4,5,5
+557.1,Celiac disease,1,0.08,0,0,0,0,1,2,2,2
+696,Psoriasis and related disorders,5,0.08,1,1,1,3,5,6,7,8
+703,Diseases of nail; NOS,3,0.08,0,0,0,1,3,4,5,5
+781,Symptoms involving nervous and musculoskeletal systems,10,0.08,2,3,3,7,10,11,13,13
+788,Syncope and collapse,15,0.08,4,6,8,11,15,16,18,18
+327.1,Hypersomnia,2,0.09,0,0,0,1,2,3,4,4
+327.31,Central/nonobstroctive sleep apnea,1,0.09,0,0,0,0,1,2,2,3
+594.3,Calculus of ureter,2,0.09,0,0,0,1,2,3,3,3
+619.3,Noninflammatory disorders of cervix,1,0.09,0,0,0,0,1,2,2,2
+714.2,Juvenile rheumatoid arthritis,3,0.09,0,0,0,1,3,4,4,5
+735.2,Acquired toe deformities,3,0.09,0,0,0,2,3,4,5,6
+79.1,Varicella infection,2,0.09,0,0,0,1,2,3,4,4
+803.2,Fracture of radius and ulna,27,0.09,13,15,17,22,27,29,31,31
+807,Fracture of ribs,4,0.09,0,0,1,2,4,5,6,7
+277.51,Lipoprotein disorders,1,0.1,0,0,0,1,1,2,2,3
+284.1,Pancytopenia,2,0.1,0,0,0,1,2,3,4,4
+289.5,Diseases of spleen,1,0.1,0,0,0,0,1,2,3,3
+327.3,Sleep apnea,38,0.1,17,25,26,32,38,39,42,47
+327.32,Obstructive sleep apnea,28,0.1,11,17,18,23,28,30,33,35
+333.1,Essential tremor,1,0.1,0,0,0,0,1,2,2,2
+348.7,Coma,1,0.1,0,0,0,0,1,2,3,3
+512.2,Painful respiration,5,0.1,0,1,1,3,5,6,8,8
+520.1,Hereditary disturbances in tooth structure,1,0.1,0,0,0,0,1,2,2,3
+560.2,Impaction of intestine,3,0.1,0,0,0,2,3,4,4,5
+574.12,Cholelithiasis with other cholecystitis,1,0.1,0,0,0,0,1,2,2,2
+687.2,Localized superficial swelling; mass; or lump,8,0.1,0,2,3,5,8,9,10,12
+695.8,Other specified erythematous conditions,1,0.1,0,0,0,0,1,2,2,2
+71.1,HIV infection; symptomatic,1,0.1,0,0,0,0,1,2,2,2
+750.13,Congenital anomalies of mouth/tongue,8,0.1,1,2,3,6,8,9,11,13
+752.11,Spina bifida,3,0.1,0,0,0,1,3,4,6,6
+842,Other sprains and strains,3,0.1,0,0,0,2,3,4,6,6
+871.2,Open wound of finger(s),10,0.1,0,3,4,7,9,11,14,14
+271,Disorders of carbohydrate transport and metabolism,2,0.11,0,0,0,1,3,3,4,4
+312.3,Impulse control disorder,5,0.11,0,1,1,3,6,7,7,9
+367.1,Myopia,19,0.11,7,8,9,14,20,20,21,25
+427.61,Supraventricular premature beats,2,0.11,0,0,0,2,3,3,3,3
+498,Acute bronchospasm,14,0.11,3,7,7,11,15,16,17,19
+522,Diseases of pulp and periapical tissues,3,0.11,0,0,0,2,4,4,4,5
+599.2,Retention of urine,3,0.11,0,0,1,2,4,4,6,7
+603.2,Spermatocele,1,0.11,0,0,0,0,2,2,2,3
+714.1,Rheumatoid arthritis,1,0.11,0,0,0,0,2,2,2,2
+79.2,Infectious mononucleosis,5,0.11,0,0,1,3,6,6,9,9
+985,Toxic effect of other metals,1,0.11,0,0,0,0,2,2,2,2
+292.11,Aphasia,2,0.12,0,0,0,1,3,3,4,5
+313.1,Attention deficit hyperactivity disorder,49,0.12,30,36,38,43,50,51,54,55
+333,Extrapyramidal disease and abnormal movement disorders,8,0.12,2,2,3,5,9,10,11,13
+366.2,Senile cataract,2,0.12,0,0,0,1,3,3,4,4
+458.1,Orthostatic hypotension,1,0.12,0,0,0,1,2,2,2,3
+519.1,Tracheostomy complications,2,0.12,0,0,0,1,3,3,4,4
+528.5,Diseases of lips,1,0.12,0,0,0,0,2,2,3,3
+599.3,Dysuria,22,0.12,9,12,13,18,23,24,26,26
+714,Rheumatoid arthritis and other inflammatory polyarthropathies,3,0.12,0,0,0,2,4,4,5,5
+716.9,Arthropathy NOS,1,0.12,0,0,0,0,2,2,2,3
+752.1,Neural tube defects,4,0.12,0,0,1,2,5,5,6,6
+772.6,Facial weakness,1,0.12,0,0,0,0,2,2,3,3
+946,Anaphylactic shock NOS,3,0.12,0,0,0,2,4,4,6,6
+229,Benign neoplasm of unspecified sites,2,0.13,0,0,0,1,3,3,3,4
+257,Testicular dysfunction,2,0.13,0,0,0,1,3,3,4,4
+335,Multiple sclerosis,1,0.13,0,0,0,1,2,2,3,3
+371.3,Inflammation of eyelids,12,0.13,2,5,5,9,13,14,16,16
+385.3,Cholesteatoma,3,0.13,0,0,0,2,4,4,5,5
+389.1,Sensorineural hearing loss,15,0.13,5,7,8,12,16,17,22,24
+389.4,Tinnitus,2,0.13,0,0,0,1,3,3,4,6
+426.23,Second degree AV block,2,0.13,0,0,0,1,3,3,4,5
+443,Peripheral vascular disease,1,0.13,0,0,0,0,2,2,3,3
+717,Polymyalgia Rheumatica,1,0.13,0,0,0,1,2,2,2,2
+938,Dermatitis due to solar radiation,3,0.13,0,0,1,2,4,4,5,7
+348.2,Cerebral edema and compression of brain,5,0.14,0,1,2,4,6,6,8,10
+374,Other disorders of eyelids,7,0.14,0,2,2,6,8,8,10,11
+756.2,Pectus and other congenital anomalies of ribs/sternum,3,0.14,0,0,0,2,4,4,5,7
+875,Non-healing surgical wound,1,0.14,0,0,0,0,2,2,3,3
+204.12,Lymphoid leukemia; chronic,1,0.15,0,0,0,1,2,2,3,3
+291,Other specified nonpsychotic and/or transient mental disorders,14,0.15,4,7,7,12,15,16,17,19
+300.3,Obsessive-compulsive disorders,4,0.15,0,1,1,3,5,6,7,7
+345.1,Epilepsy,19,0.15,8,12,12,15,20,22,23,23
+531,Peptic ulcer (excl. esophageal),4,0.15,0,0,1,3,5,5,7,8
+601.3,Orchitis and epididymitis,3,0.15,0,0,0,2,4,4,5,6
+711.1,Pyogenic arthritis,2,0.15,0,0,0,1,3,3,4,4
+756.21,Pectus excavatum,1,0.15,0,0,0,1,2,2,2,2
+912,Insect bite,22,0.15,12,13,14,19,24,25,27,29
+110.11,Dermatophytosis of nail,1,0.16,0,0,0,0,2,2,3,3
+224.1,Benign neoplasm of eye; uveal,1,0.16,0,0,0,0,2,2,3,3
+300.1,Anxiety disorder,21,0.16,8,11,12,18,23,23,26,28
+362.7,Hereditary retinal dystrophies,1,0.16,0,0,0,1,2,2,2,3
+415.11,Pulmonary embolism and infarction; acute,1,0.16,0,0,0,1,2,2,2,3
+474.1,Acute tonsillitis,7,0.16,2,3,3,5,8,9,10,11
+509.8,Dependence on respirator [Ventilator] or supplemental oxygen,3,0.16,0,0,0,2,4,5,6,9
+686,Other local infections of skin and subcutaneous tissue,15,0.16,6,8,9,12,17,18,19,21
+716,Other arthropathies,1,0.16,0,0,0,1,2,2,3,3
+988,Toxic effect of noxious substances eaten as food,2,0.16,0,0,0,2,3,3,4,4
+291.8,Alteration of consciousness,11,0.17,3,5,6,9,13,13,16,16
+401.3,Other hypertensive complications,1,0.17,0,0,0,1,2,2,2,3
+426.2,Atrioventricular [AV] block,3,0.17,0,0,0,2,4,4,5,5
+433,Cerebrovascular disease,6,0.17,0,2,2,4,7,8,8,10
+451,Phlebitis and thrombophlebitis,1,0.17,0,0,0,1,2,2,2,3
+451.2,Phlebitis and thrombophlebitis of lower extremities,1,0.17,0,0,0,1,2,2,2,3
+702.2,Seborrheic keratosis,1,0.17,0,0,0,1,2,2,2,3
+217.1,Nevus; non-neoplastic,2,0.18,0,0,0,1,3,3,4,4
+242,Thyrotoxicosis with or without goiter,1,0.18,0,0,0,1,2,2,3,3
+282.8,Other hemoglobinopathies,1,0.18,0,0,0,1,2,2,3,3
+312,Conduct disorders,31,0.18,17,19,21,27,33,34,37,38
+323,Encephalitis,1,0.18,0,0,0,1,2,2,3,3
+359,Muscular dystrophies and other myopathies,1,0.18,0,0,0,1,2,2,2,3
+377.3,Optic neuritis/neuropathy,2,0.18,0,0,0,1,3,3,4,5
+733,Other disorders of bone and cartilage,5,0.18,0,1,2,4,6,7,7,7
+1000,Burns,14,0.19,5,7,8,12,15,16,19,20
+290,Delirium dementia and amnestic and other cognitive disorders,2,0.19,0,0,0,1,3,4,4,5
+297.1,Suicidal ideation,7,0.19,0,2,3,5,8,9,10,10
+333.2,Myoclonus,2,0.19,0,0,0,1,3,4,4,4
+471,Nasal polyps,1,0.19,0,0,0,1,2,2,3,4
+519,Other diseases of respiratory system; not elsewhere classified,22,0.19,12,14,14,19,24,25,31,33
+527,Diseases of the salivary glands,3,0.19,0,0,1,2,4,5,6,6
+561.1,Diarrhea,48,0.19,32,34,37,44,51,53,56,59
+803.21,Colles' fracture,2,0.19,0,0,0,1,3,3,4,4
+291.4,Specific nonpsychotic mental disorders due to brain damage,3,0.2,0,0,1,2,4,6,7,7
+383,Otosclerosis,1,0.2,0,0,0,1,2,3,3,4
+384,Other disorders of tympanic membrane,8,0.2,1,3,3,6,9,11,12,13
+427.6,Premature beats,3,0.2,0,0,1,3,4,5,5,5
+495.11,Chronic obstructive asthma with exacerbation,6,0.2,1,1,2,4,7,8,9,9
+224,Benign neoplasm of eye,2,0.21,0,0,0,2,4,4,5,5
+260.6,Anorexia,3,0.21,0,0,0,2,4,5,5,6
+368.2,Diplopia and disorders of binocular vision,1,0.21,0,0,0,1,2,2,3,4
+473,Diseases of the larynx and vocal cords,14,0.21,6,7,9,13,16,17,18,20
+537,Other disorders of stomach and duodenum,5,0.21,0,1,1,4,6,8,9,9
+599,Other symptoms/disorders or the urinary system,42,0.21,27,30,32,37,45,48,49,56
+703.1,Ingrowing nail,3,0.21,0,0,1,2,4,5,6,6
+723.1,Torticollis,2,0.21,0,0,0,2,3,4,4,5
+261.41,Rickets or osteomalacia,1,0.22,0,0,0,1,2,2,3,3
+297.2,Suicide or self-inflicted injury,2,0.22,0,0,0,1,3,3,4,4
+327.7,Sleep related movement disorders,2,0.22,0,0,0,1,3,4,4,5
+380.1,Otitis externa,13,0.22,4,6,7,11,15,16,18,19
+384.4,Perforation of tympanic membrane,7,0.22,1,2,3,5,9,10,11,11
+425.11,Hypertrophic obstructive cardiomyopathy,1,0.22,0,0,0,1,2,2,3,3
+681.3,Cellulitis and abscess of arm/hand,7,0.22,1,3,3,6,9,10,12,12
+710.19,Unspecified osteomyelitis,2,0.22,0,0,0,1,3,3,4,5
+735.3,Hallux valgus (Bunion),1,0.22,0,0,0,1,2,2,3,3
+987,Toxic effect of other gases; fumes; or vapors,1,0.22,0,0,0,1,2,3,4,4
+253.5,Pituitary dwarfism,5,0.23,1,1,2,4,6,7,9,10
+411,Ischemic Heart Disease,3,0.23,0,1,1,3,4,5,6,6
+626.13,Irregular menstrual cycle,2,0.23,0,0,0,1,3,3,5,5
+711,Arthropathy associated with infections,2,0.23,0,0,0,1,3,4,4,5
+733.6,Costochondritis,3,0.23,0,0,1,2,4,5,5,5
+761,Cervicalgia,11,0.23,5,6,7,10,13,14,15,17
+801.1,Fracture of foot,9,0.23,2,3,4,7,11,12,14,14
+272.13,Mixed hyperlipidemia,4,0.24,0,1,1,3,5,6,8,8
+372,Disorders of conjunctiva,3,0.24,0,0,1,2,4,5,6,6
+386.9,Dizziness and giddiness (Light-headedness and vertigo),8,0.24,1,3,4,7,10,11,12,13
+495.1,Chronic obstructive asthma,8,0.24,1,3,3,6,10,10,12,12
+535.1,Acute gastritis,1,0.24,0,0,0,1,2,2,3,3
+695.9,Unspecified erythematous condition,3,0.24,0,0,1,2,4,5,6,6
+702.1,Actinic keratosis,1,0.24,0,0,0,1,2,2,3,3
+736.6,Unequal leg length (acquired),4,0.24,0,1,1,3,6,7,8,10
+750.11,Esophageal atresia/tracheoesophageal fistula,1,0.24,0,0,0,1,2,2,3,5
+840,Sprains and strains,33,0.24,20,22,24,30,35,37,38,39
+872,Traumatic amputation,1,0.24,0,0,0,1,2,2,3,4
+270.38,Other specified disorders of plasma protein metabolism,1,0.25,0,0,0,1,2,2,3,3
+349,Other and unspecified disorders of the nervous system,2,0.25,0,0,0,1,3,4,5,5
+365.11,Primary open angle glaucoma,1,0.25,0,0,0,1,2,3,3,4
+386.2,Peripheral or central vertigo,2,0.25,0,0,0,2,3,4,4,5
+497,Bronchitis,2,0.25,0,0,1,1,3,3,4,5
+535.8,Other specified gastritis,7,0.25,0,2,3,6,9,10,11,17
+557,Intestinal malabsorption (non-celiac),2,0.25,0,0,0,2,4,4,5,6
+597.1,Urethral stricture (not specified as infectious),3,0.25,0,1,1,3,5,5,6,6
+253.7,Other disorders of neurohypophysis,1,0.26,0,0,0,1,2,2,3,3
+261,Vitamin deficiency,5,0.26,0,2,2,5,7,8,9,9
+261.4,Vitamin D deficiency,5,0.26,0,2,2,5,7,8,9,9
+288.3,Eosinophilia,1,0.26,0,0,0,1,2,3,3,3
+427.12,Paroxysmal ventricular tachycardia,1,0.26,0,0,0,1,2,3,3,4
+470,Septal Deviations/Turbinate Hypertrophy,15,0.26,7,9,10,13,17,18,20,22
+530.9,Heartburn,1,0.26,0,0,0,1,2,3,3,4
+727.1,Synovitis and tenosynovitis,6,0.26,1,2,3,5,8,9,10,10
+8.6,Viral Enteritis,28,0.26,12,18,19,25,32,33,34,35
+913,Toxic effect of venom,1,0.26,0,0,0,1,3,3,4,4
+136,Other infectious and parasitic diseases,2,0.27,0,0,0,2,3,4,5,5
+173,Neoplasm of uncertain behavior of skin,5,0.27,0,1,2,4,7,8,10,10
+375.1,Dry eyes,2,0.27,0,0,0,2,4,4,5,5
+430.3,Subdural hemorrhage,1,0.27,0,0,0,1,3,3,4,5
+528.4,Cysts of oral soft tissues,1,0.27,0,0,0,1,2,3,4,4
+535.2,Atrophic gastritis,7,0.27,1,2,3,6,10,11,12,14
+694,Dyschromia and Vitiligo,3,0.27,0,1,1,2,4,5,6,7
+694.2,Other dyschromia,3,0.27,0,1,1,2,4,5,6,7
+841,Sprains and strains of back and neck,9,0.27,1,4,5,8,11,12,14,16
+916,Contusion,48,0.27,35,37,38,44,52,54,57,61
+214,Lipoma,1,0.28,0,0,0,1,3,3,3,4
+253.2,Pituitary hypofunction,2,0.28,0,0,0,2,4,4,6,7
+272.12,Hyperglyceridemia,2,0.28,0,0,0,2,3,4,6,6
+297,Suicidal ideation or attempt,8,0.28,1,4,4,7,10,11,13,13
+411.4,Coronary atherosclerosis,2,0.28,0,0,0,2,3,3,4,4
+520.2,Disturbances in tooth eruption,4,0.28,0,1,1,3,5,6,7,8
+593.1,Gross hematuria,1,0.28,0,0,0,1,2,2,3,4
+750.1,Upper gastrointestinal congenital anomalies,8,0.28,2,3,4,7,10,10,12,15
+41.2,Streptococcus infection,9,0.29,3,4,5,8,12,13,14,14
+528,Diseases of the oral soft tissues; excluding lesions specific for gingiva and tongue,11,0.29,4,5,7,10,14,15,17,17
+592.1,Cystitis,1,0.29,0,0,0,1,2,2,3,3
+695.1,Toxic erythema,1,0.29,0,0,0,1,2,3,3,3
+724,Other and unspecified disorders of back,5,0.29,1,1,2,4,7,7,8,9
+755.1,Congenital deformities of feet,4,0.29,0,1,1,3,6,7,8,9
+960,Poisoning by antibiotics,4,0.29,0,1,1,3,6,6,7,7
+215,Other benign neoplasm of connective and other soft tissue,2,0.3,0,0,0,2,3,4,5,5
+681.7,Cellulitis and abscess of trunk,10,0.3,4,5,6,9,13,14,15,16
+320,Meningitis,5,0.31,0,1,2,5,7,8,10,12
+386.21,Central origin vertigo,1,0.31,0,0,0,1,2,3,3,4
+480.2,Viral pneumonia,2,0.31,0,0,0,2,4,4,5,5
+574.1,Cholelithiasis,1,0.31,0,0,0,1,2,2,3,5
+594,Urinary calculus,3,0.31,0,1,1,3,5,5,8,8
+781.2,Abnormal posture,2,0.31,0,0,1,2,4,5,5,6
+217,Vascular hamartomas and non-neoplastic nevi,2,0.32,0,0,1,2,3,4,5,5
+293,Symptoms involving head and neck,7,0.32,3,3,4,6,10,10,12,12
+370,Keratitis,1,0.32,0,0,0,1,3,3,4,4
+380.4,Impacted cerumen,21,0.32,8,13,13,20,25,26,29,29
+411.2,Myocardial infarction,1,0.32,0,0,0,1,2,3,3,3
+681.1,Cellulitis and abscess of fingers/toes,6,0.32,1,2,3,6,9,10,10,11
+213,Benign neoplasm of bone and articular cartilage,4,0.33,0,1,2,4,6,7,8,8
+272,Disorders of lipoid metabolism,11,0.33,4,5,6,10,14,15,17,18
+272.1,Hyperlipidemia,11,0.33,4,5,6,10,14,15,17,18
+272.11,Hypercholesterolemia,4,0.33,0,1,2,4,6,7,9,10
+292.6,Hallucinations,2,0.33,0,0,0,2,4,4,5,5
+340.1,Migrain with aura,3,0.33,0,0,1,3,5,6,6,7
+342,Hemiplegia,2,0.33,0,0,0,2,3,4,4,4
+385,Other disorders of middle ear and mastoid,3,0.33,0,1,1,2,5,6,7,8
+727,Other disorders of synovium; tendon; and bursa,11,0.33,5,6,8,10,14,16,17,17
+870.2,Open wound of ear,1,0.33,0,0,0,1,3,3,4,4
+110.2,Dermatomycoses,2,0.34,0,0,1,2,4,4,6,6
+225,Benign neoplasm of brain and other parts of nervous system,1,0.34,0,0,0,1,2,2,3,4
+225.1,Benign neoplasm of brain; cranial nerves; meninges,1,0.34,0,0,0,1,2,2,3,4
+257.1,Testicular hypofunction,1,0.34,0,0,0,1,2,2,3,3
+282.5,Sickle cell anemia,2,0.34,0,0,0,2,4,4,5,5
+368.9,Subjective visual disturbances,6,0.34,0,2,2,5,8,10,11,16
+415.1,Acute pulmonary heart disease,1,0.34,0,0,0,1,2,3,3,3
+562.1,Diverticulosis,1,0.34,0,0,0,1,2,3,3,3
+702,Degenerative skin conditions and other dermatoses,2,0.34,0,0,0,2,4,4,5,6
+706.8,Other specified diseases of sebaceous glands,1,0.34,0,0,0,1,2,3,4,4
+722.6,Degeneration of intervertebral disc,1,0.34,0,0,0,1,2,3,3,4
+726,Peripheral enthesopathies and allied syndromes,9,0.34,2,4,5,8,11,12,14,15
+763,Thoracic or lumbosacral neuritis or radiculitis; unspecified,2,0.34,0,0,0,2,4,4,5,6
+1015,Effects of other external causes,5,0.35,1,1,2,5,8,8,10,10
+367,Disorders of refraction and accommodation; blindness and low vision,31,0.35,17,21,23,29,36,38,43,44
+367.2,Astigmatism,9,0.35,1,4,5,8,12,13,14,14
+395.2,Nonrheumatic aortic valve disorders,3,0.35,0,1,1,3,5,5,6,7
+743.4,Stress fracture,1,0.35,0,0,0,1,2,3,3,4
+1012,Late effect,1,0.36,0,0,0,1,2,3,4,4
+199.4,Neurofibromatosis,2,0.36,0,0,1,2,4,4,5,5
+295,Schizophrenia and other psychotic disorders,4,0.36,1,2,2,4,7,7,8,8
+306.9,Tension headache,1,0.36,0,0,0,1,2,3,3,4
+619.4,Noninflammatory disorders of vagina,1,0.36,0,0,0,1,2,3,3,4
+704.11,Alopecia Areata,1,0.36,0,0,0,1,2,3,4,5
+803,Fracture of upper limb,36,0.36,24,27,29,35,42,44,49,53
+204,Leukemia,3,0.37,0,0,1,3,5,5,7,7
+386,Vertiginous syndromes and other disorders of vestibular system,2,0.37,0,0,1,2,4,4,5,5
+520,Disorders of tooth development,7,0.37,0,3,3,7,9,10,11,11
+530.15,Eosinophilic esophagitis,1,0.37,0,0,0,1,3,3,4,5
+599.4,Urinary incontinence,12,0.37,4,6,7,12,16,17,18,19
+723,Other disorders of cervical region,2,0.37,0,0,0,2,4,5,5,5
+741,Symptoms and disorders of the joints,28,0.37,16,20,21,28,34,35,37,40
+750,Digestive congenital anomalies,13,0.37,6,7,8,13,16,18,20,22
+300.8,Acute reaction to stress,1,0.38,0,0,0,1,3,3,4,4
+333.4,Torsion dystonia,1,0.38,0,0,0,1,3,3,4,4
+418,Nonspecific chest pain,35,0.38,19,27,29,34,40,41,43,44
+496.3,Bronchiectasis,1,0.38,0,0,0,1,3,3,4,4
+578.1,Hematemesis,2,0.38,0,0,1,2,4,5,7,7
+696.3,Pityriasis,2,0.38,0,0,1,2,4,4,6,6
+800.3,Fracture of tibia and fibula,11,0.38,2,5,6,11,14,16,16,16
+859,Complication due to other implant and internal device,10,0.38,5,6,6,10,13,14,15,15
+989,Toxic effect of other substances; chiefly nonmedicinal as to source,1,0.38,0,0,0,1,3,3,4,5
+260.2,severe protein-calorie malnutrition,1,0.39,0,0,0,1,3,3,4,4
+287,Purpura and other hemorrhagic conditions,7,0.39,3,3,4,6,10,11,12,13
+41.12,Methicillin resistant Staphylococcus aureus,2,0.39,0,0,1,2,4,4,6,6
+751.21,Cystic kidney disease,1,0.39,0,0,0,1,2,3,4,5
+250.5,Glycosuria or Acetonuria,1,0.4,0,0,0,1,3,4,5,5
+253,Disorders of the pituitary gland and its hypothalamic control,6,0.4,1,3,3,6,9,10,12,13
+264.1,Short stature,12,0.4,6,7,8,11,16,18,20,22
+270.3,Disorders of plasma protein metabolism,1,0.4,0,0,0,1,2,3,4,4
+519.2,Respiratory complications,1,0.4,0,0,0,1,3,3,4,4
+732.7,Osteochondritis dissecans,1,0.4,0,0,0,1,3,3,4,4
+754,Congenital musculoskeletal deformities of spine,2,0.4,0,0,1,2,4,5,5,6
+817,Concussion,12,0.4,5,6,7,11,16,17,21,22
+873,Broken tooth,1,0.4,0,0,0,1,3,3,5,6
+371.1,Uveitis; noninfectious or NOS,1,0.41,0,0,0,1,3,3,4,6
+381.9,Otorrhea,5,0.41,1,2,2,5,7,8,9,9
+420.2,Pericarditis,2,0.41,0,0,1,2,4,5,7,8
+477,Epistaxis or throat hemorrhage,12,0.41,6,8,9,12,16,18,21,22
+562,Diverticulosis and diverticulitis,1,0.41,0,0,0,1,2,3,3,3
+572,Ascites (non malignant),5,0.41,0,2,3,5,8,9,10,11
+755.3,Congenital anomaly of fingers/toes,2,0.41,0,0,0,2,4,5,5,6
+801,Fracture of ankle and foot,16,0.41,7,9,11,15,20,21,22,24
+366,Cataract,3,0.42,0,1,1,3,5,6,7,8
+444,Arterial embolism and thrombosis,1,0.42,0,0,0,1,3,3,3,3
+695,Erythematous conditions,5,0.42,0,2,3,5,7,8,9,11
+710,Osteomyelitis; periostitis; and other infections involving bone,6,0.42,2,3,3,6,9,9,10,11
+732.1,Juvenile osteochondrosis,7,0.42,0,4,5,7,10,12,14,14
+738,Other acquired musculoskeletal deformity,6,0.42,2,3,4,6,9,10,11,12
+871,Open wounds of extremities,23,0.42,12,16,17,23,29,30,31,34
+263,Other nutritional deficiency,1,0.43,0,0,0,1,3,3,4,5
+276.5,Hypovolemia,45,0.43,31,33,38,44,51,54,55,56
+315.3,Mental retardation,5,0.43,1,1,2,5,8,8,10,11
+550.4,Umbilical hernia,11,0.43,4,6,7,11,15,16,17,17
+681,Superficial cellulitis and abscess,39,0.43,28,29,32,38,46,48,49,50
+726.1,Enthesopathy,3,0.43,0,1,1,3,6,6,6,8
+216,Benign neoplasm of skin,12,0.44,5,6,8,12,15,16,19,19
+427.8,Sinoatrial node dysfunction (Bradycardia),1,0.44,0,0,0,1,3,4,4,5
+429.3,Symptoms involving cardiovascular system,6,0.44,0,3,4,6,9,10,12,12
+528.12,Oral aphthae,2,0.44,0,0,1,2,4,5,6,6
+599.5,Frequency of urination and polyuria,11,0.44,4,6,6,11,14,15,17,18
+255.1,Adrenal hyperfunction,1,0.45,0,0,0,1,3,3,5,5
+574,Cholelithiasis and cholecystitis,1,0.45,0,0,0,1,3,3,4,7
+652,Malposition and malpresentation of fetus or obstruction,1,0.45,0,0,0,1,3,4,4,4
+741.4,Joint effusions,8,0.45,3,5,5,8,12,12,15,16
+286.7,Other and unspecified coagulation defects,6,0.46,1,2,3,6,9,10,12,13
+288.2,Elevated white blood cell count,6,0.46,2,3,4,6,9,10,12,13
+41.11,Methicillin sensitive Staphylococcus aureus,3,0.46,0,1,2,3,6,6,7,9
+601,Inflammatory diseases of prostate,5,0.46,2,3,3,5,8,9,11,12
+240,Simple and unspecified goiter,1,0.47,0,0,0,1,3,4,5,5
+612.2,Hypertrophy of breast (Gynecomastia),1,0.47,0,0,0,1,3,3,4,4
+871.3,Open wound of foot except toe(s) alone,3,0.47,0,0,1,3,6,6,6,7
+339,Other headache syndromes,43,0.48,28,33,34,43,50,52,56,58
+374.3,Ptosis of eyelid,2,0.48,0,0,1,2,4,4,6,6
+628,Ovarian cyst,1,0.48,0,0,0,1,3,3,3,4
+427.11,Paroxysmal supraventricular tachycardia,2,0.49,0,0,1,2,4,5,6,6
+475.9,Postnasal drip,2,0.49,0,1,1,2,4,4,5,6
+521.1,Dental caries,13,0.49,6,7,8,13,18,19,21,21
+710.1,Osteomyelitis,2,0.49,0,0,1,2,4,5,5,5
+732,Osteochondropathies,8,0.49,1,5,6,8,12,14,14,15
+739,Contracture of joint,4,0.49,1,2,2,4,7,8,9,9
+818.1,Subdural hemorrhage (injury),1,0.49,0,0,0,1,3,3,4,6
+871.4,Open wound of toe(s),1,0.49,0,0,0,1,3,3,4,5
+284,Aplastic anemia,2,0.5,0,1,1,2,4,5,6,6
+624,Symptoms involving female genital tract,1,0.5,0,0,0,1,3,4,4,4
+686.3,Pilonidal cyst,2,0.5,0,1,1,2,4,4,5,6
+724.9,Other unspecified back disorders,1,0.5,0,0,0,1,3,4,4,4
+300.4,Dysthymic disorder,1,0.51,0,0,0,2,3,4,5,6
+327.5,Parasomnia,1,0.51,0,0,0,2,3,4,5,6
+365.1,Open-angle glaucoma,2,0.51,0,0,0,3,4,5,6,7
+521,Diseases of hard tissues of teeth,13,0.51,6,7,9,14,18,19,21,21
+590,Pyelonephritis,2,0.51,0,1,1,3,4,5,6,6
+733.2,Cyst of bone,2,0.51,0,0,1,3,4,5,6,6
+348.9,Other conditions of brain; NOS,11,0.52,6,7,8,12,14,17,18,20
+367.8,Hypermetropia,11,0.52,5,7,8,12,16,17,18,19
+510,Other diseases of lung,20,0.52,12,15,16,21,27,28,30,33
+575.7,Other disorders of gallbladder,1,0.52,0,0,0,2,3,4,5,6
+681.2,Cellulitis and abscess of face/neck,5,0.52,3,3,4,6,9,10,11,12
+681.5,Cellulitis and abscess of leg; except foot,9,0.52,3,5,6,10,14,15,17,17
+772.2,Spasm of muscle,3,0.52,0,1,2,4,6,7,7,8
+798,Malaise and fatigue,37,0.52,25,30,31,38,46,48,50,51
+858,Complication of internal orthopedic device,2,0.52,0,0,1,3,5,5,6,7
+949.1,Diaper or napkin rash,14,0.52,7,9,10,15,19,20,23,24
+1004,Other signs and symptoms involving emotional state,2,0.53,0,0,1,3,5,5,6,6
+356,Hereditary and idiopathic peripheral neuropathy,1,0.53,0,0,0,2,3,4,5,5
+528.1,Stomatitis and mucositis,5,0.53,0,1,3,6,8,9,10,11
+568.1,Peritoneal adhesions (postoperative) (postinfection),1,0.53,0,0,0,2,3,3,5,5
+573.3,Hepatomegaly,2,0.53,0,1,1,3,4,5,7,7
+612,Breast conditions; congenital or relating to hormones,1,0.53,0,0,0,2,3,4,4,4
+626.1,Irregular menstrual cycle/bleeding,4,0.53,1,2,2,5,7,8,10,11
+429,Ill-defined descriptions and complications of heart disease,7,0.54,3,4,5,8,11,12,14,15
+586.1,Anatomical abnormatilies of kidney and ureters,5,0.54,1,3,3,6,9,9,10,11
+625,Pain and other symptoms associated with female genital organs,2,0.54,0,1,1,3,5,6,7,7
+681.6,Cellulitis and abscess of foot; toe,2,0.54,0,0,1,3,5,5,6,7
+800.4,Fracture of patella,1,0.54,0,0,0,2,3,4,5,5
+1005,Other symptoms,20,0.55,12,15,16,21,27,29,31,32
+287.31,Primary thrombocytopenia,1,0.55,0,0,0,2,3,4,5,5
+302,Sexual and gender identity disorders,1,0.55,0,0,0,2,3,4,4,4
+464,Acute sinusitis,13,0.55,5,9,10,14,18,20,21,23
+523.1,Gingivitis,2,0.55,0,1,1,3,5,5,6,6
+771,Musculoskeletal symptoms referable to limbs,1,0.55,0,0,0,2,4,4,5,6
+132,Infestation (lice; mites),7,0.56,3,4,5,8,11,12,14,14
+369.2,Eye infection; viral,6,0.56,2,4,4,7,10,11,12,13
+379.3,Aphakia and other disorders of lens,1,0.56,0,0,0,2,4,5,5,6
+480,Pneumonia,38,0.56,29,32,33,39,45,48,50,56
+528.11,Stomatitis and mucositis (ulcerative),1,0.56,0,0,0,2,3,4,5,5
+555,Inflammatory bowel disease and other gastroenteritis and colitis,1,0.56,0,0,0,2,4,4,5,6
+555.1,Regional enteritis,1,0.56,0,0,0,2,4,4,5,6
+595,Hydronephrosis,9,0.56,3,6,6,10,14,15,17,17
+870.1,Open wound or laceration of eye or eyelid,2,0.56,0,0,1,3,5,5,6,7
+260,Protein-calorie malnutrition,5,0.57,1,3,3,6,8,10,10,11
+287.3,Thrombocytopenia,5,0.57,2,3,3,6,9,10,12,12
+296.1,Bipolar,4,0.57,1,2,2,5,7,8,8,9
+418.1,Precordial pain,1,0.57,0,0,0,2,3,3,4,4
+687,Symptoms affecting skin,1,0.57,0,0,0,2,4,5,6,6
+735.1,Flat foot,1,0.57,0,0,0,2,4,4,6,6
+797,Shock,2,0.57,0,1,1,3,5,6,7,7
+270.2,Disorders of amino-acid metabolism,1,0.58,0,0,1,2,4,4,5,7
+377,Disorders of optic nerve and visual pathways,3,0.58,0,1,2,4,6,7,8,10
+656.3,Endocrine and metabolic disturbances of fetus and newborn,20,0.58,11,14,16,22,27,30,32,35
+752,Nervous system congenital anomalies,9,0.58,2,5,6,10,14,15,16,17
+286,Coagulation defects,7,0.59,2,4,5,8,11,12,14,15
+295.3,Psychosis,2,0.59,0,1,1,3,5,6,6,6
+340,Migraine,13,0.59,7,8,10,14,20,20,24,26
+348,Other conditions of brain,14,0.59,8,10,11,15,18,20,21,22
+54,Herpes simplex,2,0.59,0,1,1,3,5,6,7,8
+596,Other disorders of bladder,14,0.59,5,10,11,15,20,21,25,28
+655,Known or suspected fetal abnormality affecting management of mother,1,0.59,0,0,0,2,3,4,5,5
+736.4,Genu valgum or varum (acquired),2,0.59,0,1,1,3,5,6,7,7
+191.11,Cancer of brain,1,0.6,0,0,1,2,3,4,4,5
+242.3,Exophthalmos,1,0.6,0,0,0,2,4,4,6,6
+282,Hereditary hemolytic anemias,4,0.6,1,2,3,5,8,9,10,10
+300.12,Agorophobia; social phobia; and panic disorder,1,0.6,0,0,0,2,4,4,6,7
+331,Other cerebral degenerations,5,0.6,1,2,3,6,9,9,11,13
+348.4,Cerebral cysts,4,0.6,1,2,3,5,8,9,10,11
+368.3,Anisometropia,2,0.6,1,1,1,3,6,6,8,8
+420,Carditis,2,0.6,0,1,1,3,5,6,8,8
+459,Other disorders of circulatory system,1,0.6,0,0,0,2,4,5,5,6
+506,Empyema and pneumothorax,3,0.6,0,1,2,4,7,7,8,8
+535.9,Gastritis and duodenitis; NOS,2,0.6,1,1,1,3,6,6,7,8
+603,Other disorders of testis,8,0.6,3,5,6,9,13,14,15,17
+656.22,Interstitial emphysema and related conditions of newborn,2,0.6,0,0,1,3,4,5,6,7
+804,Fracture of hand or wrist,16,0.6,7,11,13,17,22,25,27,27
+626,Disorders of menstruation and other abnormal bleeding from female genital tract,5,0.61,2,3,3,6,9,11,13,14
+656.8,Perinatal jaundice,40,0.61,30,34,36,42,48,51,51,58
+770,Myalgia and myositis unspecified,4,0.61,0,2,3,5,8,9,11,14
+819,Skull and face fracture and other intercranial injury,8,0.61,3,4,6,9,13,14,15,16
+1009,Injury; NOS,92,0.62,77,82,84,95,106,111,116,122
+288.1,Decreased white blood cell count,4,0.62,1,2,3,5,8,8,11,12
+532,Dysphagia,19,0.62,14,15,16,21,25,26,31,32
+740.1,Osteoarthritis; localized,1,0.62,0,0,0,2,3,4,5,5
+199,Neoplasm of uncertain behavior,7,0.63,3,4,6,8,12,13,15,15
+279.1,Immunity deficiency,1,0.63,0,0,0,2,4,4,5,6
+567,Peritonitis and retroperitoneal infections,1,0.63,0,0,0,2,4,4,6,6
+611,Abnormal findings on mammogram or breast exam,1,0.63,0,0,0,2,4,4,6,6
+611.3,Lump or mass in breast,1,0.63,0,0,0,2,4,4,6,6
+789,Nausea and vomiting,86,0.63,74,76,79,90,100,101,108,109
+475,Chronic sinusitis,10,0.64,4,7,8,11,16,17,19,21
+596.5,Functional disorders of bladder,13,0.64,4,9,10,15,19,21,25,28
+686.4,Pyogenic granuloma,1,0.64,0,0,1,2,4,4,5,5
+1011,Complications of surgical and medical procedures,3,0.65,1,2,2,4,7,7,10,11
+304,Adjustment reaction,18,0.65,11,13,14,20,25,26,30,30
+379.9,Pain; swelling or discharge of eye,3,0.65,0,2,2,4,7,7,10,10
+594.1,Calculus of kidney,1,0.65,0,0,0,2,4,5,6,6
+751.3,Obstructive genitourinary defect,5,0.65,0,3,3,6,9,10,11,11
+191.1,Cancer of brain and nervous system,1,0.66,0,1,1,2,4,4,5,5
+204.1,Lymphoid leukemia,1,0.66,0,0,1,2,4,5,6,6
+501,Pneumonitis due to inhalation of food or vomitus,2,0.66,1,1,1,3,6,7,7,7
+579,Other symptoms involving abdomen and pelvis,17,0.66,12,13,14,19,24,25,26,26
+736,Other acquired deformities of limbs,8,0.66,3,5,7,10,13,14,17,19
+1001,Foreign body injury,18,0.67,13,14,16,20,26,29,34,35
+244.5,Congenital hypothyroidism,1,0.67,0,0,0,2,4,5,6,7
+338.2,Chronic pain,1,0.67,0,0,1,2,4,5,6,7
+38.1,Gram negative septicemia,1,0.67,0,0,0,2,4,5,6,7
+427.1,Paroxysmal tachycardia; unspecified,2,0.67,0,1,1,3,5,6,6,7
+608,Other disorders of male genital organs,6,0.67,3,4,5,8,11,12,13,15
+656.1,Isoimmunization of fetus or newborn,2,0.67,0,1,1,3,6,6,7,7
+250.21,Type 2 diabetes with ketoacidosis,1,0.68,0,0,0,2,4,5,5,6
+512.7,Shortness of breath,26,0.68,17,22,23,29,33,34,36,37
+523,Gingival and periodontal diseases,3,0.68,0,2,2,4,7,7,8,8
+701.4,Keloid scar,1,0.68,0,0,1,2,4,5,5,6
+727.7,Contracture of tendon (sheath),1,0.68,0,0,1,2,4,5,5,6
+729,Other disorders of soft tissues,1,0.68,0,0,1,2,4,5,5,6
+250.11,Type 1 diabetes with ketoacidosis,1,0.69,0,0,1,2,3,4,5,5
+288,Diseases of white blood cells,9,0.69,4,6,7,11,14,15,18,18
+296.2,Depression,13,0.69,8,9,10,15,20,21,22,26
+352,Disorders of other cranial nerves,1,0.69,0,0,1,2,4,5,5,6
+365,Glaucoma,2,0.69,0,0,1,3,6,6,8,10
+414,Other forms of chronic heart disease,2,0.69,1,1,2,4,7,7,9,10
+530.14,Reflux esophagitis,5,0.69,1,3,4,7,11,12,13,15
+536.8,Dyspepsia and other specified disorders of function of stomach,2,0.69,0,1,1,4,6,6,7,8
+597,Other disorders of urethra and urinary tract,3,0.69,0,2,3,4,7,8,9,10
+395.1,Nonrheumatic mitral valve disorders,2,0.7,0,1,1,3,5,6,8,8
+586.12,Vesicoureteral reflux,4,0.7,1,2,3,5,8,9,10,11
+706.2,Sebaceous cyst,2,0.7,0,1,1,3,6,7,8,8
+871.1,Open wound of hand except finger(s),2,0.7,0,1,1,3,6,6,7,8
+276.42,Alkalosis,1,0.71,0,0,0,2,4,4,6,7
+279,Disorders involving the immune mechanism,1,0.71,0,0,0,2,4,5,6,7
+317,Alcohol-related disorders,3,0.71,0,1,2,4,7,8,8,9
+317.1,Alcoholism,3,0.71,0,1,2,4,7,8,8,9
+689,Disorder of skin and subcutaneous tissue NOS,4,0.71,1,2,3,6,8,8,9,9
+749.1,Cleft palate,2,0.71,0,1,1,3,5,6,8,8
+78,Viral warts & HPV,8,0.71,4,6,7,10,14,15,16,18
+338.1,Acute pain,10,0.72,5,8,9,13,18,18,21,24
+364.1,Corneal opacity,1,0.72,0,0,1,2,4,4,5,6
+619,Noninflammatory female genital disorders,2,0.72,0,1,2,3,5,6,6,8
+687.4,Disturbance of skin sensation,3,0.72,1,2,2,5,7,8,10,10
+803.3,Fracture of clavicle or scapula,4,0.72,1,3,3,5,8,8,10,10
+132.1,Pediculosis and phthirus infestation,1,0.73,0,0,1,2,4,4,5,5
+378,Strabismus and other disorders of binocular eye movements,23,0.73,17,18,20,26,31,33,36,39
+378.1,Strabismus (not specified as paralytic),20,0.73,14,17,18,22,28,30,33,36
+578,Gastrointestinal hemorrhage,13,0.73,8,10,11,16,20,20,24,24
+270,Disorders of protein plasma/amino-acid transport and metabolism,2,0.74,0,1,2,4,6,6,7,8
+338,Pain,11,0.74,5,9,10,15,20,21,23,27
+513.4,Hyperventilation,14,0.74,9,11,12,18,21,22,24,24
+561,Symptoms involving digestive system,7,0.74,3,5,6,10,13,14,17,17
+994.2,Sepsis,2,0.74,0,1,2,3,6,7,8,8
+293.1,Swelling; mass; or lump in head and neck [Space-occupying lesion; intracranial NOS],7,0.75,3,4,5,9,13,14,15,16
+780,Hypothermia/Chills,1,0.75,0,1,1,2,5,6,6,7
+800,Fracture of lower limb,14,0.75,9,11,12,17,22,24,26,28
+578.8,Hemorrhage of rectum and anus,5,0.76,2,3,4,7,9,10,12,13
+599.9,Other abnormality of urination,1,0.76,0,0,1,2,4,5,6,6
+722,Intervertebral disc disorders,1,0.76,0,0,1,2,4,5,5,6
+737.3,Kyphoscoliosis and scoliosis,10,0.76,5,7,8,12,16,18,21,21
+818,Intracranial hemorrhage (injury),1,0.76,0,0,1,2,5,5,7,7
+425.1,Primary/intrinsic cardiomyopathies,1,0.77,0,1,1,2,5,5,5,7
+560.4,Other intestinal obstruction,3,0.78,1,2,3,5,8,8,10,10
+593,Hematuria,7,0.78,3,4,6,10,14,14,18,20
+375,Disorders of lacrimal system,3,0.79,1,2,3,5,8,10,10,11
+41.1,Staphylococcus infections,6,0.79,3,4,5,8,11,12,13,14
+578.9,Hemorrhage of gastrointestinal tract,1,0.79,0,1,1,2,4,4,5,6
+591,Urinary tract infection,22,0.79,18,19,22,26,31,33,35,36
+755,Congenital anomalies of limbs,9,0.79,6,7,8,12,17,18,20,21
+305.2,Eating disorder,1,0.8,0,0,1,2,5,5,6,7
+425,Cardiomyopathy,1,0.8,0,1,1,3,5,5,5,8
+578.2,Blood in stool,6,0.8,3,4,5,9,12,13,14,15
+603.1,Hydrocele,5,0.8,2,4,5,7,11,12,13,13
+760,Back pain,18,0.8,12,16,17,23,28,31,34,37
+773,Pain in limb,44,0.8,38,41,42,48,56,58,59,59
+394,Rheumatic disease of the heart valves,1,0.81,0,1,1,3,5,6,7,8
+568,Other disorders of peritoneum,1,0.81,0,1,1,3,4,5,8,8
+756.3,Congenital anomalies of muscle; tendon; fascia; and connective tissue,1,0.81,0,1,1,2,4,5,6,6
+191,Manlignant and unknown neoplasms of brain and nervous system,1,0.83,0,1,1,3,5,6,7,7
+276,Disorders of fluid; electrolyte; and acid-base balance,53,0.83,45,49,51,59,67,68,70,73
+367.9,Blindness and low vision,1,0.83,0,1,1,3,5,5,6,8
+601.4,Balanoposthitis,1,0.83,0,1,1,3,5,6,7,9
+706.1,Acne,9,0.83,4,7,8,12,15,16,18,24
+755.6,Other congenital anomalies of lower limb; including pelvic girdle,3,0.83,1,2,3,5,9,9,11,11
+958,Certain early complications of trauma or procedure,1,0.83,0,1,1,3,5,5,7,8
+296,Mood disorders,17,0.84,13,13,15,21,25,27,28,34
+38.3,Bacteremia,3,0.84,0,2,3,6,9,9,10,13
+526,Diseases of the jaws,2,0.84,1,1,2,4,7,7,9,11
+571.5,Other chronic nonalcoholic liver disease,1,0.84,0,1,1,3,5,6,7,8
+701.6,Acquired acanthosis nigricans,2,0.84,1,2,2,4,7,8,8,9
+750.21,Congenital anomalies of intestine,1,0.84,0,0,1,3,5,6,6,7
+755.61,Congenital hip dysplasia and deformity,2,0.84,1,1,2,4,7,7,9,9
+288.11,Neutropenia,2,0.85,1,2,2,5,7,7,10,11
+465.4,Acute laryngitis and tracheitis,1,0.85,0,1,1,3,5,5,6,6
+686.1,Carbuncle and furuncle,2,0.85,0,2,2,5,7,8,8,9
+805,Fracture of vertebral column without mention of spinal cord injury,2,0.85,1,2,2,4,7,7,9,9
+737,Curvature of spine,11,0.86,8,9,10,14,19,20,23,23
+742.9,Other derangement of joint,1,0.86,0,1,1,3,5,5,6,6
+743.2,Pathologic fracture,2,0.86,0,1,2,4,7,7,9,9
+747.12,Valvular heart disease/ heart chambers,6,0.86,4,5,6,9,13,14,15,16
+835,Internal derangement of knee,4,0.86,3,4,4,7,11,12,14,16
+994,Sepsis and SIRS,2,0.86,1,1,2,5,7,9,10,11
+228,Hemangioma and lymphangioma; any site,3,0.87,2,2,3,6,10,11,12,14
+277,Other disorders of metabolism,2,0.87,1,2,2,5,8,8,9,9
+282.9,Other hereditary hemolytic anemias,1,0.87,0,1,1,3,5,6,7,8
+560,Intestinal obstruction without mention of hernia,7,0.87,4,6,7,11,14,15,17,18
+753,Congenital anomalies of the eye,2,0.87,1,1,2,5,8,9,10,10
+758.1,Chromosomal anomalies,3,0.87,2,2,3,6,8,9,10,10
+785,Abdominal pain,77,0.87,65,72,76,86,94,100,104,108
+348.8,Encephalopathy; not elsewhere classified,4,0.88,2,4,4,7,10,11,13,14
+571,Chronic liver disease and cirrhosis,1,0.88,0,1,1,3,5,6,8,9
+573.5,Jaundice (not of newborn),2,0.88,1,2,2,5,8,9,10,11
+509.3,Pulmonary insufficiency or respiratory failure following trauma and surgery,4,0.89,1,4,4,7,11,12,15,16
+535,Gastritis and duodenitis,7,0.89,5,6,7,11,16,19,23,23
+550.1,Inguinal hernia,13,0.89,8,9,13,18,23,25,27,28
+276.11,Hyperosmolality and/or hypernatremia,1,0.9,0,1,1,4,6,7,9,13
+331.1,Hydrocephalus,2,0.9,1,2,2,5,8,8,9,12
+379,Other disorders of eye,4,0.9,2,4,4,7,10,12,13,14
+519.8,Other diseases of respiratory system; NEC,2,0.9,2,2,2,5,8,8,10,10
+550.2,Diaphragmatic hernia,1,0.9,0,1,1,3,5,6,7,8
+745,Pain in joint,53,0.9,48,51,53,63,70,72,80,83
+749.2,Congenital anomalies of skull and face bones,7,0.9,4,6,7,10,14,15,18,18
+830,Dislocation,10,0.9,7,9,10,15,19,20,23,24
+427.5,Arrhythmia (cardiac) NOS,6,0.91,1,4,7,10,14,15,16,17
+524,Dentofacial anomalies; including malocclusion,4,0.91,3,4,5,7,10,11,13,13
+524.3,Anomalies of tooth position/malocclusion,4,0.91,3,4,5,7,10,11,13,13
+536.7,Complications of gastrostomy; colostomy and enterostomy,1,0.91,0,1,2,3,6,6,8,10
+758,Chromosomal anomalies and genetic disorders,3,0.91,2,3,4,6,9,9,10,11
+854,Complications of cardiac/vascular device; implant; and graft,1,0.91,0,1,2,4,6,7,8,8
+250.1,Type 1 diabetes,4,0.92,2,4,5,9,12,13,16,16
+276.12,Hyposmolality and/or hyponatremia,4,0.92,3,4,5,8,11,12,15,16
+427.7,Tachycardia NOS,12,0.92,6,11,13,17,23,24,25,27
+430,Intracranial hemorrhage,1,0.92,1,1,2,4,6,7,8,8
+509.2,Respiratory insufficiency,3,0.92,1,3,4,6,9,10,11,11
+585,Renal failure,2,0.92,1,2,3,6,8,9,10,11
+343,Infantile cerebral palsy,3,0.93,1,3,4,6,9,10,12,13
+368,Visual disturbances,24,0.93,21,24,26,32,39,40,43,45
+38,Septicemia,6,0.93,4,6,7,13,16,17,19,19
+536,Disorders of function of stomach,3,0.93,1,3,4,7,10,11,12,13
+565,Anal and rectal conditions,2,0.93,1,2,3,5,8,9,10,10
+656,Other perinatal conditions of fetus or newborn,60,0.93,53,58,61,69,78,79,84,88
+656.7,Conditions involving the integument and temperature regulation of fetus and newborn,10,0.93,8,10,11,15,19,20,23,23
+740,Osteoarthrosis,1,0.93,0,1,2,4,6,6,7,9
+752.2,Other specified congenital anomalies of nervous system,3,0.93,1,3,4,7,11,12,13,14
+771.1,Swelling of limb,10,0.93,7,10,11,15,19,20,22,25
+1008,Crushing or internal injury to organs,2,0.94,1,2,3,5,8,8,9,10
+1013,Asphyxia and hypoxemia,13,0.94,9,13,15,19,23,25,28,28
+250.2,Type 2 diabetes,4,0.94,4,4,5,9,12,12,14,16
+289.4,Lymphadenitis,12,0.94,8,11,13,18,23,24,26,29
+509.1,Respiratory failure,8,0.94,6,8,10,14,18,19,22,24
+550,Abdominal hernia,22,0.94,20,22,24,30,37,38,40,40
+585.1,Acute renal failure,1,0.94,1,1,2,4,6,7,8,10
+750.2,Lower gastrointestinal congenital anomalies,1,0.94,0,1,2,4,7,7,7,8
+276.41,Acidosis,3,0.95,2,3,4,7,9,10,11,11
+292.4,Altered mental status,6,0.95,4,6,7,11,16,16,20,24
+395,Heart valve disorders,3,0.95,2,3,4,8,11,11,14,15
+41,Bacterial infection NOS,18,0.95,13,18,19,24,30,31,33,35
+756,Other congenital musculoskeletal anomalies,5,0.95,4,5,6,9,14,15,17,18
+850,Hemorrhage or hematoma complicating a procedure,1,0.95,1,1,2,4,7,7,8,8
+280.1,Iron deficiency anemias; unspecified or not due to blood loss,1,0.96,1,2,3,5,8,9,10,11
+300.9,Posttraumatic stress disorder,3,0.96,2,4,4,7,10,11,13,14
+316,Substance addiction and disorders,1,0.96,1,2,2,4,7,8,9,9
+563,Constipation,48,0.96,42,49,50,60,71,73,78,79
+575,Other biliary tract disease,1,0.96,1,2,2,5,8,9,11,12
+665,Obstetrical/birth trauma,2,0.96,2,3,3,6,8,9,10,10
+706,Diseases of sebaceous glands,11,0.96,9,12,13,17,22,23,28,30
+743.9,Osteopenia or other disorder of bone and cartilage,2,0.96,0,3,3,5,8,9,11,11
+244.4,Hypothyroidism NOS,2,0.97,1,3,3,6,8,9,11,11
+255,Disorders of adrenal glands,1,0.97,1,2,3,5,7,7,9,9
+428.1,Congestive heart failure (CHF) NOS,2,0.97,2,3,4,7,10,10,13,14
+512.9,Other dyspnea,36,0.97,33,37,40,47,55,56,59,63
+586,Other disorders of the kidney and ureters,7,0.97,6,8,9,12,17,18,20,21
+604,Disorders of penis,33,0.97,30,34,36,43,50,53,55,57
+651,Multiple gestation,2,0.97,1,3,3,5,8,9,11,11
+656.6,Perinatal disorders of digestive system,5,0.97,2,6,8,11,16,16,18,19
+228.1,Hemangioma of skin and subcutaneous tissue,1,0.98,0,2,2,4,8,8,9,9
+285.1,Acute posthemorrhagic anemia,1,0.98,1,2,3,6,9,10,10,12
+428,Congestive heart failure; nonhypertensive,3,0.98,2,5,5,9,11,13,15,16
+496,Chronic airway obstruction,3,0.98,2,4,5,9,12,13,15,15
+508,Pulmonary collapse; interstitial and compensatory emphysema,16,0.98,16,18,19,24,31,32,33,33
+560.1,Paralytic ileus,1,0.98,0,2,2,5,8,8,9,10
+742,Derangement of joint; non-traumatic,1,0.98,0,3,3,5,8,9,10,11
+743,Osteoporosis; osteopenia and pathological fracture,4,0.98,3,6,7,10,14,15,17,19
+751.1,Congenital anomalies of genital organs,24,0.98,23,26,27,33,38,40,43,45
+751.12,Congenital anomalies of male genital organs,24,0.98,22,25,26,32,37,40,43,44
+751.2,Congenital anomalies of urinary system,1,0.98,0,2,2,4,7,7,8,9
+803.1,Fracture of humerus,5,0.98,4,6,7,10,15,16,19,21
+840.3,Joint/ligament sprain,2,0.98,2,3,4,7,10,11,13,13
+244,Hypothyroidism,2,0.99,1,3,4,7,9,10,12,13
+250,Diabetes mellitus,5,0.99,5,7,8,12,17,18,20,22
+264.2,Failure to thrive (childhood),13,0.99,13,14,17,21,27,30,31,32
+276.4,Acid-base balance disorder,4,0.99,4,5,6,9,13,13,15,17
+285,Other anemias,14,0.99,14,20,23,27,33,34,37,45
+396,Abnormal heart sounds,26,0.99,26,31,32,39,45,46,52,56
+415.2,Chronic pulmonary heart disease,1,0.99,1,3,3,6,9,10,11,11
+427.3,Other specified cardiac dysrhythmias,5,0.99,5,9,9,12,17,18,20,22
+458.9,Hypotension NOS,2,0.99,2,4,5,8,11,11,13,13
+480.1,Bacterial pneumonia,1,0.99,0,2,3,6,9,10,11,11
+509,Respiratory failure; insufficiency; arrest,14,0.99,11,16,17,23,28,29,32,33
+513,Respiratory abnormalities,23,0.99,23,25,26,33,38,40,40,42
+530.1,Esophagitis; GERD and related diseases,43,0.99,43,48,49,56,63,65,68,71
+604.1,Redundant prepuce and phimosis/BXO,25,0.99,25,28,29,35,43,45,48,52
+656.26,Transitory tachypnea or apnea of newborn,12,0.99,11,14,15,20,26,27,30,31
+656.5,Hematological disorders of newborn,8,0.99,7,11,12,16,22,22,24,26
+657,Infections specific to the perinatal period,11,0.99,10,13,14,19,23,25,30,34
+701,Other hypertrophic and atrophic conditions of skin,5,0.99,5,9,10,13,16,17,18,19
+741.2,Stiffness of joint,1,0.99,1,3,4,7,10,11,13,13
+747,Cardiac and circulatory congenital anomalies,22,0.99,21,25,28,33,41,44,50,51
+747.1,Cardiac congenital anomalies,21,0.99,18,23,26,32,40,41,47,48
+748,Anomalies of respiratory system; congenital,4,0.99,3,5,6,9,13,14,15,16
+749,Congenital anomalies of face and neck,19,0.99,19,23,24,30,35,36,37,37
+800.2,Fracture of unspecified part of femur,1,0.99,1,2,3,5,7,8,11,11
+251.1,Hypoglycemia,1,1,2,2,3,5,8,8,12,12
+276.1,Electrolyte imbalance,9,1,12,17,18,22,26,29,32,38
+276.14,Hypopotassemia,3,1,4,5,6,9,13,14,16,17
+280,Iron deficiency anemias,1,1,2,3,3,6,9,9,11,12
+362,Other retinal disorders,5,1,6,8,10,15,18,20,22,22
+362.1,Retinopathy of prematurity,4,1,5,7,9,12,16,17,19,21
+368.1,Amblyopia,6,1,8,10,11,15,20,22,24,24
+401,Hypertension,7,1,8,9,11,15,19,20,21,23
+401.1,Essential hypertension,6,1,7,8,10,14,18,19,21,21
+415,Pulmonary heart disease,2,1,3,4,5,8,11,12,13,14
+416,Cardiomegaly,6,1,7,8,9,12,16,18,21,23
+427,Cardiac dysrhythmias,22,1,28,29,31,38,45,47,49,51
+427.9,Palpitations,3,1,4,4,5,9,13,14,16,16
+458,Hypotension,3,1,4,5,6,9,12,13,15,15
+503,Pulmonary congestion and hypostasis,5,1,6,6,7,10,15,17,18,19
+507,Pleurisy; pleural effusion,4,1,5,6,7,11,16,18,20,20
+513.3,Hypoventilation,6,1,8,10,11,15,20,21,23,24
+513.31,Apnea,3,1,4,5,7,10,14,15,16,16
+530,Diseases of esophagus,44,1,45,49,49,57,65,67,69,72
+530.11,GERD,39,1,41,44,45,53,60,64,66,69
+561.2,Flatulence,11,1,12,14,15,20,25,27,28,32
+564,Functional digestive disorders,2,1,5,7,8,12,15,17,20,21
+569,Other disorders of intestine,3,1,5,7,8,13,17,18,19,22
+637,Short gestation; low birth weight; and fetal growth retardation,22,1,29,32,34,40,44,45,48,51
+656.2,Respiratory conditions of fetus and newborn,20,1,26,29,31,38,43,45,47,47
+656.4,Hemorrhage of fetus or newborn,3,1,4,5,6,9,12,13,14,15
+656.9,Neonatal bradycardia or tachycardia,2,1,4,5,6,9,13,14,18,18
+661,Fetal distress and abnormal forces of labor,4,1,8,10,12,17,21,23,26,26
+747.11,Cardiac shunt/ heart septal defect,13,1,15,17,17,22,28,30,33,36
+747.13,Congenital anomalies of great vessels,8,1,10,12,13,18,24,26,29,30
+751,Genitourinary congenital anomalies,28,1,31,34,35,41,46,48,51,54
+759,Other and unspecified congenital anomalies,4,1,5,7,7,11,16,16,18,20
+782.3,Edema,4,1,5,6,7,10,14,15,17,18

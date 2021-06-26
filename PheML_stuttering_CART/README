@@ -1,0 +1,38 @@
+Phecode based stuttering case prediction machine learning model (PheML)
+
+PheML is a classification and regression tree that uses commonly observed stuttering comobidities to impute the stuttering phenotype in subjects
+Scripts requres two arguments:
+	-i: Input phecode file (see formatting below)
+	-o: Output file name
+
+Phecode file format:
+Scripts expects header (column titles are irrelevant), not having header line will simply cause the script to skip the first phecode
+Phecode file should have at least two columns. The first should have the sample id, and the second should have the phecode
+Additional columns are fine as they will simply be ignored by the script
+
+
+EXAMPLE:
+SAMPLE_ID,PHECODE
+sample_1,290.1
+sample_1,301.1
+sample_1,211.1
+sample_2,100.1
+sample_2,150.3
+...
+
+
+
+Script requires the follow packages (also includes versions script was tested in, other versions may work):
+
+numpy 1.17
+sklearn 0.24
+joblib 1.0.1
+
+
+
+
+model folder includes enrichment features used in script and CART model the script will load through joblib
+
+Script only returns one file: sample list of all samples that were predicted to stutter based on PheML CART model
+
+
